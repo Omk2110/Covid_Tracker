@@ -1,4 +1,4 @@
-# tgd_covid_tracker
+# Covid_Tracker
 
 A new Flutter project.
 
